@@ -1,9 +1,9 @@
 import List from './List.jsx'
-import shelter from '../assets/images/sayes-shelter.png'
-import candidate from '../assets/images/candidate.jpg'
+import shelter from '../assets/images/shelter.png'
+import candidate from '../assets/images/candidate.png'
 import kanban from '../assets/images/kanban.jpg'
-import empTracker from '../assets/images/employee-tracker.jpg'
-import portfolio from '../assets/images/portfolio.jfif'
+import empTracker from '../assets/images/employeeracker.jpg'
+import portfolio from '../assets/images/portfolio.jpg'
 const projects = [
   {
     id: 1,
@@ -17,28 +17,25 @@ const projects = [
     projectName: 'Candidate Search',
     projectImg: candidate,
     projectRepoLink: 'https://github.com/alrich22/CandidateSearch',
-    projectDeployedLink: 'https://youtu.be/qD4sCNJhR2k',
   },
   {
     id: 3,
     projectName: 'Kanban Board',
     projectImg: kanban,
     projectRepoLink: 'https://github.com/alrich22/KanbanBoard',
-    projectDeployedLink: 'https://weather-dashboard-fvb6.onrender.com',
   },
   {
     id: 4,
     projectName: 'Employee Tracker',
     projectImg: empTracker,
     projectRepoLink: 'https://github.com/alrich22/EmployeeTracker',
-    projectDeployedLink: 'https://youtu.be/OuKMgkM4JYg',
   },
   {
     id: 5,
     projectName: 'Portfolio',
     projectImg: portfolio,
     projectRepoLink: 'https://github.com/alrich22/Portfolio',
-    projectDeployedLink: 'https://portfolio-a2lw.onrender.com/',
+    projectDeployedLink: 'https://my-portfolio-yvt5.onrender.com/',
   },
 ];
 

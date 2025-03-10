@@ -7,7 +7,7 @@ export default function Footer() {
                     Thank you for visiting! :D
                 </p>
                 <div id='footer-icons-container'>
-                <a href="https://github.com/alrich22="_blank">
+                <a href="https://github.com/alrich22=">
                     <img src='https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png' className="logo" alt="Github logo" />
                 </a>
                 </div>
