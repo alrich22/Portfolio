@@ -10,7 +10,7 @@ const projects = [
     projectName: "Saye's Shelter (Project 1)",
     projectImg: shelter,
     projectRepoLink: 'https://github.com/alrich22/Project-1-Group-6',
-    projectDeployedLink: '',
+    projectDeployedLink: 'https://alrich22.github.io/Project-1-Group-6/',
   },
   {
     id: 2,
